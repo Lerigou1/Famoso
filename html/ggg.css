@@ -1,0 +1,34 @@
+h1 {
+    font-family: Calibri;
+    color:aliceblue;
+    }
+h2 {
+    font-family: Calibri;
+    color:aliceblue;
+    }
+body {
+    background-color: black;
+    }
+img {
+    border: 4px solid chocolate ;
+    
+    }
+span {
+    font-family: Calibri;
+    color:chocolate;
+    }
+h4 {
+    font-family: Calibri;
+    color:aliceblue;
+    }
+h5 {
+    font-family: Calibri;
+    color:chocolate;
+    }
+table {
+    font-family: Courier;
+    color:chocolate;
+    }
+link {
+    color:chocolate;
+    }
